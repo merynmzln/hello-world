@@ -1,2 +1,5 @@
 # hello-world
-sérieux, direct, compétitif
+
+Hi people!
+
+Je suis serieux,direct et competitif. 
